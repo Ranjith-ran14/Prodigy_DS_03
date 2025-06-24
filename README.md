@@ -1,6 +1,6 @@
 # Prodigy_DS_03
 ## Task 3 Description
-![Task 3](task3.PNG)
+![Task 3](task3_question.PNG.png)
 In the Task-3:
 
 I Built a Decision Tree Classifier to predict customer purchase behavior using demographic and behavioral data.
@@ -27,4 +27,4 @@ this dataset is from https://github.com/Ranjith-ran14/Prodigy_DS_03/blob/main/ba
 1.Data Cleaning 2.Visualization
 ## Contact
 For enquiries and feedback: 
-Ranjith C(via Linkedin) ranjith.chitrambalam@gmail.com(via gmail)
+Ranjith C(via LinkedIn) ranjith.chitrambalam@gmail.com(via gmail)
